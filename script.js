@@ -458,7 +458,7 @@ revealElements.forEach(element => {
       { name: "Cassandra", icon: "https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" },
       { name: "MongoDB", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },
       { name: "DynamoDB", icon: "https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" },
-      { name: "Redshift", icon: "https://cdn.worldvectorlogo.com/logos/aws-redshift-logo.svgg" },
+      { name: "Redshift", icon: "https://cdn.worldvectorlogo.com/logos/aws-redshift-logo.svg" },
       { name: "BigQuery", icon: "https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" },
     ],
     Queues: [
